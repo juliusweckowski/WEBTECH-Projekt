@@ -11,4 +11,4 @@
 - Entity Klassen:
 -   appUser, exercise, exerciseType, traininigDay, exercisEntry, exerciseSet
 
-- Milestone (M1)
+- Übungsgruppe Montag 13:45 - 15:15 Nahid Taherkhani
